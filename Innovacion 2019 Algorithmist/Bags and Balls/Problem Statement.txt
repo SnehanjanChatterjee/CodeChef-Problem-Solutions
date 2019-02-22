@@ -1,0 +1,19 @@
+You are given N empty bags. Provided with K numbers of balls you have to put those balls in the bags. Also, you have to put the balls in a sequence i.e. given a number R, the balls you put in the bags should be in increasing multiples of R. For example, if R=5 then the balls in the bags are in sequence 5,10,15,20… Now your task is to find how many bags remain empty.
+
+Note: The balls in any bags can only be the multiple of R and also should be in increasing sequence.
+INPUT
+A single line containing 3 space separated integers N, K, R.
+OUTPUT
+Output the number of bags left empty.
+CONSTRAINTS
+1=N=105
+1=K=2.105
+1=R=100
+SAMPLE INPUT
+5 17 5
+SAMPLE OUTPUT
+3
+EXPLANATON
+5 Balls in the first bag.
+10 Balls in the second bags.
+Now the number of balls left is 2 and cannot be placed into further bags.
