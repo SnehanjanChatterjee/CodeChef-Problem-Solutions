@@ -1,0 +1,21 @@
+Chef is travelling to the nearest cricket stadium to watch his favourite team play. Unfortunately for him, he is running late. The road to the stadium has a speed limit L km/h. If Chef is D kms away from the stadium, find whether he can reach the stadium in H hours, if he cannot travel faster than the speed limit.
+
+Input:
+First line of input contains the number of test cases T. Then the test cases follow.
+Each test case consists of three space separated integers L, D and H denoting the speed limit in km/h, the distance and the number of hours in which Chef has to reach the stadium.
+Output:
+For each test case, output in a single line, the word 'Yes' if Chef can reach on time, and the word 'No' if he cannot.
+Constraints:
+1=T=5
+1=L=300
+1=D=7000
+1=H=24
+Sample Input:
+2
+100 250 2
+72 123 3
+Sample Output:
+No
+Yes
+Explanation:
+For the first test case, Chef cannot reach on time even if he travels at the speed limit.
