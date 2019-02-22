@@ -1,0 +1,22 @@
+As a result of the success with Chiti, Vaseegaran Created n robots with random IDs… But Bohra wanted to destroy his party because of jealous. So, he inserted dangerous REDCHIP on some robots. Somehow Vaseegaran finds out some of his robots are inserted with REDCHIP. He finds out a robot with ID N is inserted with REDCHIP if N satisfies the following two conditions :
+
+N has more than three factors
+The number of factors of N is odd.
+Help Vaseegaran in finding out whether a robot is REDCHIP inserted one or not.
+
+Input:
+First line will contain T, number of testcases. Then the testcases follow.
+Each testcase contains of a single line of input, one integers N.
+Output:
+For each testcase, print Yes if the robot has RED CHIP or No if it doesn't have RED CHIP.
+
+Constraints
+1=T=103
+1=N=1018
+Sample Input:
+2
+3
+4
+Sample Output:
+No
+No
