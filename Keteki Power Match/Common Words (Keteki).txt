@@ -1,0 +1,36 @@
+All submissions for this problem are available.Given two sentences, if there is at least one common word in the two sentences print 
+"Yes" else print "No". 
+
+Input:
+T
+Sentence 1A
+Sentence 1B
+Sentence 2A
+Sentence 2B
+....
+...
+Sentence TA
+Sentence TB
+
+Output:
+Result for Sentence 1A and 1B
+Result for Sentence 2A and 2B
+...
+Result for Sentence TA and TB
+
+Constraints:
+1<=T<=10
+1<=Number of words in a sentence<=50
+All words will be in lowercase
+
+Example:
+Input:
+2
+going to two
+two of you
+who are you
+I am gone
+
+Output:
+Yes
+No
