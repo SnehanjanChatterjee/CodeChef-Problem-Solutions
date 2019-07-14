@@ -1,0 +1,25 @@
+ANA is busy shifting his room in the hostel. So he wants you to keep track of messages that contain the word "MUJ" without quotes.
+
+ANA wants you to solve the easiest problem of this contest asap.
+
+If the messages contain at least a single occurrence of "MUJ" print "YES"(without quotes) Else print "NO"(without quotes)
+
+Input:
+The first line will contain T, the number of test cases. Then the test cases follow.
+Each test case contains a single line of input, the message
+Output:
+For each test case, output the answer YES/NO
+
+Constraints
+1≤T≤100 -Each line of text does not exceed 100000 alphabets. -All alphabets are uppercase.
+Subtasks
+100 points : Original Constrains
+Sample Input:
+3
+GTRGKTRGKRMUJ
+MUMUUJ
+MUJMUJAA
+Sample Output:
+YES
+NO
+YES
