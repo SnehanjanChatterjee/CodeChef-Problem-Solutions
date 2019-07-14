@@ -1,0 +1,17 @@
+Reverse Multiplication is “an introduction to worlds's most elegant mathematics”.
+
+Input:
+A single integer N
+Output:
+A single line “elegant” or “not elegant”.
+
+Constraints
+1≤N≤10000
+Sample Input:
+1729
+Sample Output:
+elegant
+Sample Input:
+80
+Sample Output:
+not elegant
