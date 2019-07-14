@@ -1,0 +1,17 @@
+It is often said that no one is perfect.
+
+Input:
+A single integer N
+Output:
+“Perfect” or “Not Perfect” (Without quotes)
+
+Constraints
+1≤N≤1014
+Sample Input:
+1
+Sample Output:
+Not Perfect
+Sample Input:
+6
+Sample Output:
+Perfect
