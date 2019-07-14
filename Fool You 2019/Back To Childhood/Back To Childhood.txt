@@ -1,0 +1,19 @@
+In your childhood you would have studied the famous BODMAS rule. So try to use it here.
+
+Input:
+First line contains an integer T denoting number of test cases. Each test case contains of string s, consisting of only ‘/’ and ‘*’.
+Output:
+Print a single line for each test, either “Regular since Childhood.” or “Irregular since Childhood.” (without quotes).
+
+Constraints
+1≤T≤103
+length of string, L≤100
+Sample Input:
+3
+/**/
+/*/*/*/*
+///**/**//*//***/*
+Sample Output:
+Irregular since Childhood.
+Regular since Childhood.
+Regular since Childhood.
