@@ -47,7 +47,8 @@ int main()
         				    O++;
         				else
         				   E++;
-        				//cout<<"(x)"<<x<<" ^ (y) "<<y<<" = "<<(x^y)<<" .Ones is = "<<ones<<" .So, even = "<<even<<" odd  = "<<odd<<endl;
+        				//cout<<"(x)"<<x<<" ^ (y) "<<y<<" = "<<(x^y)<<" .Ones is = "<<ones<<" .So, even = "<<even<<" 
+						//odd  = "<<odd<<endl;
 					}
 				}
 			}
